@@ -20,15 +20,10 @@ Pod::Spec.new do |s|
   s.summary      = "Simple zoom image with autolayout."
 
   s.description  = <<-DESC
-                   A longer description of DSImageView in Markdown format.
-
-                   * Think: Why did you write this? What is the focus? What does it do?
-                   * CocoaPods will be using this to generate tags, and improve search results.
-                   * Try to keep it short, snappy and to the point.
-                   * Finally, don't worry about the indent, CocoaPods strips it!
+Simple zoom image with autolayout. Plug and play.
                    DESC
 
-  s.homepage     = "http://github/diejmon/DSImageView"
+  s.homepage     = "https://github.com/diejmon/DSPhotosView"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
